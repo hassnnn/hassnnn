@@ -1,6 +1,8 @@
 <div align="center">
 
-![Matrix Banner](https://raw.githubusercontent.com/matrix-org/matrix.org/master/static/images/matrix-logo.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/approtech/matrix-rain-svg/main/matrix.svg" width="600" />
+</p>
 
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&color=00FF41&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Follow+the+white+rabbit...;Wake+up,+Neo...;The+Matrix+has+you...;Knock,+knock,+Neo." alt="Typing Text">
@@ -34,24 +36,24 @@
 
 <div align="center">
 
-### 💻 **Programming Languages**
+### **Programming Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=00FF41&labelColor=0D1117)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0D1117&labelColor=0D1117)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=00FF41&labelColor=0D1117)
 
-### 🛠 **Frameworks & Libraries**
+### **Frameworks & Libraries**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=00FF41&labelColor=0D1117)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=00FF41&labelColor=0D1117)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=00FF41&labelColor=0D1117)
 
-### 🗄️ **Databases**
+### **Databases**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=00FF41&labelColor=0D1117)
 
 </div>
 
 ---
 
-## 📡 MATRIX CONNECTIONS
+##CONNECTIONS
 
 <div align="center">
 
@@ -61,7 +63,7 @@
 
 ---
 
-## 🎮 REAL-TIME MATRIX ACTIVITY
+##REAL-TIME ACTIVITY
 
 <div align="center">
 
@@ -72,7 +74,6 @@
 
 ---
 
-## 💬 MATRIX QUOTE
 
 > *"There is no spoon."*
 
@@ -81,8 +82,6 @@
 ---
 
 <div align="center">
-
-### **Remember: The Matrix is everywhere. It is all around us.**
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=hassnnn&color=00FF41&style=flat-square&label=MATRIX+VISITORS)
 
