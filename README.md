@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/l4HnKwiJJaJQB04Zq/giphy.gif" width="100%" style="margin-bottom: 20px;">
-
-<div style="background: rgba(0, 0, 0, 0.9); padding: 30px; border: 2px solid #00FF41; border-radius: 15px;">
+![SNAKE](https://raw.githubusercontent.com/hassnnn/hassnnn/output/github-snake-dark.svg)
 
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&color=00FF41&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Follow+the+white+rabbit...;Wake+up...;The+Matrix+has+you...;Knock,+knock" alt="Typing Text">
