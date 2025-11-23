@@ -38,26 +38,6 @@
 
 </div>
 
----
-
-##REAL-TIME ACTIVITY
-
-<div align="center">
-
-<!-- Replace with your own metrics -->
-![Metrics](https://github.com/hassnnn/hassnnn/blob/main/github-metrics.svg)
-
-</div>
-
----
-
-
-> *"There is no spoon."*
-
-<img src="https://raw.githubusercontent.com/MatrixDevs/Matrix/main/assets/matrix-code.gif" width="100%" alt="Matrix Code Rain">
-
----
-
 <div align="center">
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=hassnnn&color=00FF41&style=flat-square&label=MATRIX+VISITORS)
