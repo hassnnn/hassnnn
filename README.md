@@ -9,27 +9,6 @@
 
 ---
 
-
-<div align="center">
-
-![](https://raw.githubusercontent.com/MatrixDevs/Matrix/main/assets/matrix.svg)
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hassnnn&show_icons=true&theme=matrix&count_private=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassnnn&layout=compact&theme=matrix&hide_border=true)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=hassnnn&theme=matrix&hide_border=true)
-
-</div>
-
----
-
-
-![Matrix Grid](https://raw.githubusercontent.com/MatrixDevs/Matrix/main/assets/grid.svg)
-
-![Contribution Grid](https://activity-graph.herokuapp.com/graph?username=hassnnn&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF)
-
----
-
 ## TECH STACK
 
 <div align="center">
