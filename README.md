@@ -1,11 +1,11 @@
 <div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/approtech/matrix-rain-svg/main/matrix.svg" width="600" />
-</p>
+<img src="https://media.giphy.com/media/l4HnKwiJJaJQB04Zq/giphy.gif" width="100%" style="margin-bottom: 20px;">
+
+<div style="background: rgba(0, 0, 0, 0.9); padding: 30px; border: 2px solid #00FF41; border-radius: 15px;">
 
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&color=00FF41&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Follow+the+white+rabbit...;Wake+up,+Neo...;The+Matrix+has+you...;Knock,+knock,+Neo." alt="Typing Text">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&color=00FF41&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Follow+the+white+rabbit...;Wake+up...;The+Matrix+has+you...;Knock,+knock" alt="Typing Text">
 
 > *"You take the blue pill, the story ends. You wake up in your bed and believe whatever you want to believe. You take the red pill, you stay in Wonderland, and I show you how deep the rabbit hole goes."*
 
